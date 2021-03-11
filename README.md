@@ -16,7 +16,7 @@ The mintzai-ST corpus is a Basque-Spanish speech translation parallel corpus, ba
 
 The corpus consists of audio files, transcriptions and translations, which may be used to train end-to-end or cascaded speech translation systems for Basque-Spanish in both directions.
 
-The corpus can be downloaded via the following link: TBD.
+The corpus can be downloaded via the following link: [https://datasets.vicomtech.org/v2-mintzai-st/mintzai-st-corpus_v1.0.tar.gz](https://datasets.vicomtech.org/v2-mintzai-st/mintzai-st-corpus_v1.0.tar.gz)
 
 Please note that the file is 25GB and downloading may take some time.
 
